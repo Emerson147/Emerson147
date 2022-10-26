@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Emerson Rafael
+- Hi, I’m Emerson Rafael ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 - 👀 I’m interested in Engineering Software
 - 🌱 I’m currently learning Java and Spring Boot
 - 💞️ I’m looking to collaborate on the university Contintental 
