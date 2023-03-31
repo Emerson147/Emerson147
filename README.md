@@ -1,5 +1,4 @@
-- Hi, I’m Emerson Rafael ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-- 👀 I’m interested in Engineering Software
+
 - 🌱 I’m currently learning Java and Spring Boot
 - 💞️ I’m looking to collaborate on the university Contintental 
 - 📫 How to reach me Emerson Rafael in Facebook.
@@ -10,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-### Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) , I'm Mehdi
+### Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) , I'm Emerson Rafael !
 
 <a href="https://www.linkedin.com/in/mehdimabrouki/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -34,6 +33,7 @@ Hi there, I'm **Mehdi Mabrouki**, a **Kaggle Competitions Expert** ( Ranked Top 
 
 **Talking about Personal Stuffs:**
 
+- 💻 I'm looking to collaborate on the university Continental; 
 - 🌱 I’m currently learning Java and Spring Boot; 
 - 🤔 My interests are with Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
