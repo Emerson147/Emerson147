@@ -217,7 +217,7 @@ const emerson = {
       <td width="50%">
         <h3 align="center">Java Spring Backend</h3>
         <div align="center">
-          <a href="https://github.com/Emerson147/sistema-spring-boot" target="_blank">
+          <a href="https://github.com/Emerson147/gestion-inventario-ely" target="_blank">
             <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Emerson147&repo=sistema-spring-boot&theme=radical&border_color=7ED4FF&border_radius=10" alt="Repo 1">
           </a>
           <p><strong>Java + Spring Boot + MySQL</strong></p>
@@ -307,7 +307,7 @@ const emerson = {
 
 <div align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=tu-usuario-spotify&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" alt="Spotify">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=loctmpatvalb87woniw5oozue&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true" alt="Spotify">
   </a>
 </div>
 
@@ -322,7 +322,7 @@ const emerson = {
 </h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/emerson-quijada/" target="_blank">
+  <a href="https://www.linkedin.com/in/migattedev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/Emerson147" target="_blank">
@@ -331,7 +331,7 @@ const emerson = {
   <a href="https://twitter.com/EmersonDev147" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="mailto:emerson@example.com" target="_blank">
+  <a href="mailto:emersontec147@gmail.com.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
